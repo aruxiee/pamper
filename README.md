@@ -65,5 +65,5 @@ Once active, the impact is system-wide.
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
